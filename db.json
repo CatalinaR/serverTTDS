@@ -2,9 +2,9 @@
  "post":[
     {
       "id": 1,
-      "name": "RO",
+      "name": "DE",
       "value": 300,
-      "topTweets":["haloo", "ne zabirai"]
+      "topTweets":["haloo1", "ne zabirai2"]
     },
     {
       "id": 2,
@@ -15,9 +15,9 @@
     },
     {
       "id": 3,
-      "name": "DE",
+      "name": "RO",
       "value": 100,
-      "topTweets":["buenoo", "voda"]
+      "topTweets":["buenoo5", "voda66"]
 
     }
  ]}
