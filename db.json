@@ -2,22 +2,22 @@
  "post":[
     {
       "id": 1,
-      "name": "DE",
-      "value": 300,
-      "topTweets":["haloo1", "ne zabirai2"]
+      "name": "France",
+      "value": 200,
+      "topTweets":["EX1"]
     },
     {
       "id": 2,
-      "name": "RU",
-      "value": 500,
-      "topTweets":["privet", "kll"]
+      "name": "Canada",
+      "value": 600,
+      "topTweets":["EX2"]
 
     },
     {
       "id": 3,
-      "name": "RO",
-      "value": 100,
-      "topTweets":["buenoo5", "voda66"]
+      "name": "United States",
+      "value": 150,
+      "topTweets":["EX3"]
 
     }
  ]}
