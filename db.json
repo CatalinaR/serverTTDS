@@ -3,28 +3,18 @@
     {
       "id": 1,
       "name": "RU",
-      "value": 1000,
-      "topTweets":["EX1?????"]
+      "mostNegativeTweet":"olaaa carinio",
+      "mostPositiveTweet":"suka bliat",
+      "numberOfTweets": 24,
+      "value":98.89
     },
     {
       "id": 2,
       "name": "Canada",
-      "value": 450,
-      "topTweets":["EX2---3344"]
-
-    },
-    {
-      "id": 3,
-      "name": "United States",
-      "value": 150,
-      "topTweets":["EX3"]
-
-    },
-     {
-      "id": 4,
-      "name": "RO",
-      "value": 800,
-      "topTweets":["EX4"]
-
+      "value": 450.99,
+      "mostNegativeTweet":"olaaa carinio  2222",
+      "mostPositiveTweet":"suka bliat 222",
+      "numberOfTweets": 78,
+      "value":698.89
     }
  ]}
