@@ -1,20 +1,29 @@
 {
+ "query":[
+     {
+        "original":"I play stuff",
+        "preprocessed":"muie"
+
+     }
+ ],
  "post":[
     {
       "id": 1,
       "name": "RU",
-      "mostNegativeTweet":"olaaa carinio",
-      "mostPositiveTweet":"suka bliat",
+      "mostNegativeTweet":["olaaa carinio", "pe camp", "fuck my life", "depression"],
+      "mostPositiveTweet":["suka bliat", "mortii masii", "sugeo ceapa", "caramele", "olaa"],
       "numberOfTweets": 24,
+      "timestamp":2019-01-23,
       "value":98.89
     },
     {
       "id": 2,
       "name": "Canada",
       "value": 450.99,
-      "mostNegativeTweet":"olaaa carinio  2222",
-      "mostPositiveTweet":"suka bliat 222",
+      "mostNegativeTweet":["olaaa carinio  2222", "cica 1", "cica 2", "cica 3", "cica 4"],
+      "mostPositiveTweet":["suka bliat 222", "ola1", "ola2", "ola3", "ola4"],
       "numberOfTweets": 78,
+      "timestamp":2019-02-04,
       "value":698.89
     }
  ]}
