@@ -12,19 +12,33 @@
       "name": "RU",
       "mostNegativeTweet":[
 				{
-				  "text": "suka bliat NEg",
+				  "text": "suka bliat NEg 1",
 				  "created_at":"2019-05-23",
                                   "relevance_score":34,
-                                  "sentiment_score":678 },
+                                  "sentiment_score":6786 },
                                  { 
-                                   "text":"hulaa NEggg",
+                                   "text":"hulaa NEggg 2",
                                    "created_at":"2019-01-12",
                                    "relevance_score":45,
-                                   "sentiment_score":544
+                                   "sentiment_score":5446
+                                    },
+				{
+				  "text": "suka bliat NEg 3",
+				  "created_at":"2019-05-23",
+                                  "relevance_score":34,
+                                  "sentiment_score":6784 },
+                                 { 
+                                   "text":"hulaa NEggg 4",
+                                   "created_at":"2019-01-12",
+                                   "relevance_score":45,
+                                   "sentiment_score":5445
+                                    },
+				{ 
+                                   "text":"hulaa NEggg 5",
+                                   "created_at":"2019-01-12",
+                                   "relevance_score":45,
+                                   "sentiment_score":5445
                                     }
-
-
-
 
 			  ],
       "mostPositiveTweet":[
@@ -38,48 +52,100 @@
                                    "created_at":"2019-01-12",
                                    "relevance_score":45,
                                    "sentiment_score":544
+                                    },
+				{
+				  "text": "suka bliat",
+				  "created_at":"2019-05-23",
+                                  "relevance_score":34,
+                                  "sentiment_score":678 },
+                                 { 
+                                   "text":"hulaa",
+                                   "created_at":"2019-01-12",
+                                   "relevance_score":45,
+                                   "sentiment_score":544
+                                    },
+				 { 
+                                   "text":"hulaa",
+                                   "created_at":"2019-01-12",
+                                   "relevance_score":45,
+                                   "sentiment_score":544
                                     }
+
 
                             ],
       "numberOfTweets": 24,
-      "timestamp":"2019-01-23",
       "value":98.89
     },
     {
       "id": 2,
       "name": "Canada",
-      "value": 450.99,
       "mostNegativeTweet":[
-			    {
-				  "text": "suka bliat - CANADA ",
+			         {
+				  "text": "suka bliat - CANADA1 ",
 				  "created_at":"2019-05-23",
                                   "relevance_score":34,
                                   "sentiment_score":678 },
                                  { 
-                                   "text":"hulaa - CAnaada ",
+                                   "text":"hulaa - CAnaada2 ",
+                                   "created_at":"2019-01-12",
+                                   "relevance_score":45,
+                                   "sentiment_score":544
+                                    },
+ 				 {
+				  "text": "suka bliat - CANADA 3",
+				  "created_at":"2019-05-23",
+                                  "relevance_score":34,
+                                  "sentiment_score":678 },
+                                 { 
+                                   "text":"hulaa - CAnaada 4",
+                                   "created_at":"2019-01-12",
+                                   "relevance_score":45,
+                                   "sentiment_score":544
+                                    },
+				 { 
+                                   "text":"hulaa - CAnaada 5",
                                    "created_at":"2019-01-12",
                                    "relevance_score":45,
                                    "sentiment_score":544
                                     }
+
+
 
       ],
       "mostPositiveTweet":[
 
 				{
-			          "text": "suka bliat - CANADA",
+			          "text": "suka bliat - CANADA 1",
 				  "created_at":"2019-05-23",
                                   "relevance_score":34,
                                   "sentiment_score":678 },
                                  { 
-                                   "text":"hulaa - CANADA",
+                                   "text":"hulaa - CANADA 2",
+                                   "created_at":"2019-01-12",
+                                   "relevance_score":45,
+                                   "sentiment_score":544
+                                    },
+				{
+			          "text": "suka bliat - CANADA 3",
+				  "created_at":"2019-05-23",
+                                  "relevance_score":34,
+                                  "sentiment_score":678 },
+                                 { 
+                                   "text":"hulaa - CANADA 4",
+                                   "created_at":"2019-01-12",
+                                   "relevance_score":45,
+                                   "sentiment_score":544
+                                    },
+				 { 
+                                   "text":"hulaa - CANADA 5 ",
                                    "created_at":"2019-01-12",
                                    "relevance_score":45,
                                    "sentiment_score":544
                                     }
 
+
 	],
       "numberOfTweets": 78,
-      "timestamp":"2019-02-04",
       "value":698.89
     }
  ]}
