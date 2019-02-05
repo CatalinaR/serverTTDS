@@ -11,7 +11,20 @@
       "id": 1,
       "name": "RU",
       "mostNegativeTweet":["olaaa carinio", "pe camp", "fuck my life", "depression"],
-      "mostPositiveTweet":["suka bliat", "mortii masii", "sugeo ceapa", "caramele", "olaa"],
+      "mostPositiveTweet":[
+				{
+				  "text": "suka bliat",
+				  "created_at":"2019-05-23",
+                                  "relevance_score":34,
+                                  "sentiment_score":678 },
+                                 { 
+                                   "text":"hulaa",
+                                   "created_at":"2019-01-12",
+                                   "relevance_score":45,
+                                   "sentiment_score":544
+                                    }
+
+                            ],
       "numberOfTweets": 24,
       "timestamp":"2019-01-23",
       "value":98.89
