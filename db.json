@@ -10,7 +10,23 @@
     {
       "id": 1,
       "name": "RU",
-      "mostNegativeTweet":["olaaa carinio", "pe camp", "fuck my life", "depression"],
+      "mostNegativeTweet":[
+				{
+				  "text": "suka bliat NEg",
+				  "created_at":"2019-05-23",
+                                  "relevance_score":34,
+                                  "sentiment_score":678 },
+                                 { 
+                                   "text":"hulaa NEggg",
+                                   "created_at":"2019-01-12",
+                                   "relevance_score":45,
+                                   "sentiment_score":544
+                                    }
+
+
+
+
+			  ],
       "mostPositiveTweet":[
 				{
 				  "text": "suka bliat",
@@ -33,8 +49,35 @@
       "id": 2,
       "name": "Canada",
       "value": 450.99,
-      "mostNegativeTweet":["olaaa carinio  2222", "cica 1", "cica 2", "cica 3", "cica 4"],
-      "mostPositiveTweet":["suka bliat 222", "ola1", "ola2", "ola3", "ola4"],
+      "mostNegativeTweet":[
+			    {
+				  "text": "suka bliat - CANADA ",
+				  "created_at":"2019-05-23",
+                                  "relevance_score":34,
+                                  "sentiment_score":678 },
+                                 { 
+                                   "text":"hulaa - CAnaada ",
+                                   "created_at":"2019-01-12",
+                                   "relevance_score":45,
+                                   "sentiment_score":544
+                                    }
+
+      ],
+      "mostPositiveTweet":[
+
+				{
+			          "text": "suka bliat - CANADA",
+				  "created_at":"2019-05-23",
+                                  "relevance_score":34,
+                                  "sentiment_score":678 },
+                                 { 
+                                   "text":"hulaa - CANADA",
+                                   "created_at":"2019-01-12",
+                                   "relevance_score":45,
+                                   "sentiment_score":544
+                                    }
+
+	],
       "numberOfTweets": 78,
       "timestamp":"2019-02-04",
       "value":698.89
